@@ -1,4 +1,4 @@
-# 🌦️ Zaman Serisi Tahmini: Jena Climate Dataset ile LSTM Uygulaması
+# 🌦️ Zaman Serisi Tahmini: LSTM Uygulaması
 📌 Proje Hakkında
 
 Bu proje, Jena Climate veri seti kullanılarak zaman serisi tahmini yapmayı amaçlamaktadır.
